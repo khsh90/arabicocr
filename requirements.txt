@@ -1,11 +1,13 @@
 #tensorflow >= 1.11.0, <2.0   # CPU Version of TensorFlow.
 # tensorflow-gpu  >= 1.11.0, <2.0 # GPU version of TensorFlow.
-PyArabic
-farasapy
-emoji==1.4.2
-tk
+Flask
+Werkzeug
 python-docx
 pytesseract
 pdf2image
 pillow
+PyArabic
+farasapy
+emoji==1.4.2
+tk
 pyinstaller
