@@ -11,3 +11,4 @@ farasapy
 emoji==1.4.2
 tk
 pyinstaller
+gunicorn
